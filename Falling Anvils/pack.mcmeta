@@ -1,0 +1,6 @@
+{
+    "pack":{
+        "pack_format": 10,
+        "description": "This pack makes anvils break certain kinds of blocks"
+    }
+}

@@ -17,4 +17,6 @@ team join runner @a[tag=!tagger]
 
 execute at @e[tag=spawn] run spreadplayers ~ ~ 100 200 false @a
 
+execute at @e[tag=spawn] run spreadplayers ~ ~ 100 200 true @a
+
 scoreboard players set State gameStart 1
